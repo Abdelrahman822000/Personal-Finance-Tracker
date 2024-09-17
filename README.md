@@ -34,7 +34,7 @@ The Personal Finance Tracker is a C++ console application that allows users to i
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/Personal-Finance-Tracker.git
+    git clone https://github.com/Abdelrahman822000/Personal-Finance-Tracker.git
     cd Personal-Finance-Tracker
     ```
 
